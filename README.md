@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AfolabiMTK
 - 👀 I’m interested in IT and Data Science
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m have an intermediate knowledge in Data Science
 - 💞️ I’m looking to collaborate on doing more real life projects
 - 📫 You can reach me on MTKafolabi@gmail.com
 
